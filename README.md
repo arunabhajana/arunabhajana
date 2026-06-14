@@ -5,7 +5,7 @@
 Building software that prioritizes simplicity, performance, and great user experience.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%26+Systems+Enthusiast;Desktop+%26+Mobile+App+Builder;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cloud+%26+Systems+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 ---
